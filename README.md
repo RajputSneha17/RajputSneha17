@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sneha Rajput</h1>
 <h3 align="center">Aspiring Full Stack Developer | | Eager to Learn & Contribute | | Pursuing BCA</h3>
 <a href=#><img src="contributions.svg"></a>
-<p>I'm passionate about creating responsive and dynamic websites that offer a great user experience. Currently, I'm pursuing a Bachelor of Computer Applications (BCA) from Amity University Online and am in my 3rd semester. Alongside, I'm enhancing my skills in full-stack development and Data Structures and Algorithms (DSA) through Sigma 4.0 at Apna College, guided by Shraddha Khapra and Aman Dhattarwal. 🎓
-My journey in web development is fueled by a love for continuous learning and a dedication to expanding my knowledge in coding. Whether working solo or with a team, I’m always up for new challenges and enjoy finding creative solutions. 😁</p>
+<p>I'm passionate about creating responsive and dynamic websites that offer a great user experience. 🌐✨ Currently, I'm pursuing a Bachelor of Computer Applications (BCA) from Amity University Online 🏫 and am in my 3rd semester. 📚 Alongside, I'm enhancing my skills in full-stack development 💻 and Data Structures and Algorithms (DSA) 🔢 through Sigma 4.0 at Apna College 📈, guided by Shraddha Khapra and Aman Dhattarwal. 🎓
+
+My journey in web development is fueled by a love for continuous learning 📖 and a dedication to expanding my knowledge in coding. 💡💻 Whether working solo 🤓 or collaborating with a team 🤝, I’m always up for new challenges 🚀 and enjoy finding creative solutions. ✨😁</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
