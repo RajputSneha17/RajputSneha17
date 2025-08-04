@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sneha Rajput</h1>
 <h3 align="center">Aspiring Full Stack Developer | | Eager to Learn & Contribute | | Pursuing BCA</h3>
 <a href=#><img src="contributions.svg"></a>
-<p>I'm passionate about creating responsive and dynamic websites that offer a great user experience. 🌐✨ Currently, I'm pursuing a Bachelor of Computer Applications (BCA) from Amity University Online 🏫 and am in my 3rd semester. 📚 Alongside, I'm enhancing my skills in full-stack development 💻 and Data Structures and Algorithms (DSA) 🔢 through Sigma 4.0 at Apna College 📈, guided by Shraddha Khapra and Aman Dhattarwal. 🎓
+<p>I’m an aspiring MERN stack developer, currently building full-stack projects using MongoDB, Express.js, React.js, and Node.js.
 
-My journey in web development is fueled by a love for continuous learning 📖 and a dedication to expanding my knowledge in coding. 💡💻 Whether working solo 🤓 or collaborating with a team 🤝, I’m always up for new challenges 🚀 and enjoy finding creative solutions. ✨😁</p>
+I’ve completed my MERN training and now gaining hands-on experience through personal projects.
+
+I’m pursuing my BCA from Amity University Online and actively looking for internship opportunities to apply my skills and learn in a professional environment.
+
+I enjoy building clean, responsive web applications and love learning new technologies to improve my development skills.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
