@@ -18,12 +18,6 @@ I enjoy building clean, responsive web applications and love learning new techno
 <a href="https://www.linkedin.com/in/sneha-rajput-5102b0284/" target="blank" style="text-decoration: none !important;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="30" />
 </a>
-
-<a href="https://instagram.com/sneharajput9205" target="blank" style="text-decoration: none !important;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" width="40" height="30" />
-</a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
