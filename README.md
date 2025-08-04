@@ -4,11 +4,11 @@
 <a href="#"><img src="contributions.svg"></a>
 
 <p>
-I’m an aspiring MERN stack developer, currently building full-stack projects using MongoDB, Express.js, React.js, and Node.js.
+I'm an aspiring MERN stack developer, currently building full-stack projects using MongoDB, Express.js, React.js, and Node.js.
 
-I’ve completed my MERN training and now gaining hands-on experience through personal projects.
+I've completed my MERN training and now gaining hands-on experience through personal projects.
 
-I’m pursuing my BCA from Amity University Online and actively looking for internship opportunities to apply my skills and learn in a professional environment.
+I'm pursuing my BCA from Amity University Online and actively looking for internship opportunities to apply my skills and learn in a professional environment.
 
 I enjoy building clean, responsive web applications and love learning new technologies to improve my development skills.
 </p>
@@ -25,7 +25,6 @@ I enjoy building clean, responsive web applications and love learning new techno
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Use a flex container for clean spacing and zero link underline -->
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -61,4 +60,3 @@ I enjoy building clean, responsive web applications and love learning new techno
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: white; border-radius: 50%;"/>
   </a>
 </p>
-
