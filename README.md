@@ -13,12 +13,6 @@ I'm pursuing my BCA from Amity University Online and actively looking for intern
 I enjoy building clean, responsive web applications and love learning new technologies to improve my development skills.
 </p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sneha-rajput-5102b0284/" target="blank" style="text-decoration: none !important;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" width="40" height="30" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
